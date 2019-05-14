@@ -1,0 +1,50 @@
+D:\CSharp\UpdateNotifier\UpdateNotifier\bin\Debug\UpdateNotifier.exe.config
+D:\CSharp\UpdateNotifier\UpdateNotifier\bin\Debug\UpdateNotifier.exe
+D:\CSharp\UpdateNotifier\UpdateNotifier\bin\Debug\UpdateNotifier.pdb
+D:\CSharp\UpdateNotifier\UpdateNotifier\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp\UpdateNotifier\UpdateNotifier\obj\x86\Debug\UpdateNotifier.FrmMain.resources
+D:\CSharp\UpdateNotifier\UpdateNotifier\obj\x86\Debug\UpdateNotifier.Properties.Resources.resources
+D:\CSharp\UpdateNotifier\UpdateNotifier\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharp\UpdateNotifier\UpdateNotifier\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CSharp\UpdateNotifier\UpdateNotifier\obj\x86\Debug\UpdateNotifier.exe
+D:\CSharp\UpdateNotifier\UpdateNotifier\obj\x86\Debug\UpdateNotifier.pdb
+D:\My Projects\03 - Completed\Tray Icon Notifier Tool\UpdateNotifier v8 -- Msg if not connected\UpdateNotifier\bin\Debug\UpdateNotifier.exe.config
+D:\My Projects\03 - Completed\Tray Icon Notifier Tool\UpdateNotifier v8 -- Msg if not connected\UpdateNotifier\bin\Debug\UpdateNotifier.exe
+D:\My Projects\03 - Completed\Tray Icon Notifier Tool\UpdateNotifier v8 -- Msg if not connected\UpdateNotifier\bin\Debug\UpdateNotifier.pdb
+D:\My Projects\03 - Completed\Tray Icon Notifier Tool\UpdateNotifier v8 -- Msg if not connected\UpdateNotifier\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Projects\03 - Completed\Tray Icon Notifier Tool\UpdateNotifier v8 -- Msg if not connected\UpdateNotifier\obj\x86\Debug\UpdateNotifier.FrmMain.resources
+D:\My Projects\03 - Completed\Tray Icon Notifier Tool\UpdateNotifier v8 -- Msg if not connected\UpdateNotifier\obj\x86\Debug\UpdateNotifier.Properties.Resources.resources
+D:\My Projects\03 - Completed\Tray Icon Notifier Tool\UpdateNotifier v8 -- Msg if not connected\UpdateNotifier\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Projects\03 - Completed\Tray Icon Notifier Tool\UpdateNotifier v8 -- Msg if not connected\UpdateNotifier\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Projects\03 - Completed\Tray Icon Notifier Tool\UpdateNotifier v8 -- Msg if not connected\UpdateNotifier\obj\x86\Debug\UpdateNotifier.exe
+D:\My Projects\03 - Completed\Tray Icon Notifier Tool\UpdateNotifier v8 -- Msg if not connected\UpdateNotifier\obj\x86\Debug\UpdateNotifier.pdb
+C:\Documents and Settings\Developer\Desktop\UpdateNotifier v8\UpdateNotifier\bin\Debug\UpdateNotifier.exe.config
+C:\Documents and Settings\Developer\Desktop\UpdateNotifier v8\UpdateNotifier\obj\x86\Debug\UpdateNotifier.exe
+C:\Documents and Settings\Developer\Desktop\UpdateNotifier v8\UpdateNotifier\obj\x86\Debug\UpdateNotifier.pdb
+C:\Documents and Settings\Developer\Desktop\UpdateNotifier v8\UpdateNotifier\bin\Debug\UpdateNotifier.exe
+C:\Documents and Settings\Developer\Desktop\UpdateNotifier v8\UpdateNotifier\bin\Debug\UpdateNotifier.pdb
+C:\Documents and Settings\Developer\Desktop\UpdateNotifier v8\UpdateNotifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Developer\Desktop\UpdateNotifier v8\UpdateNotifier\obj\x86\Debug\UpdateNotifier.FrmMain.resources
+C:\Documents and Settings\Developer\Desktop\UpdateNotifier v8\UpdateNotifier\obj\x86\Debug\UpdateNotifier.Properties.Resources.resources
+C:\Documents and Settings\Developer\Desktop\UpdateNotifier v8\UpdateNotifier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Developer\Desktop\UpdateNotifier v8\UpdateNotifier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v9\UpdateNotifier\bin\Debug\UpdateNotifier.exe.config
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v9\UpdateNotifier\obj\x86\Debug\UpdateNotifier.exe
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v9\UpdateNotifier\obj\x86\Debug\UpdateNotifier.pdb
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v9\UpdateNotifier\bin\Debug\UpdateNotifier.exe
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v9\UpdateNotifier\bin\Debug\UpdateNotifier.pdb
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v9\UpdateNotifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v9\UpdateNotifier\obj\x86\Debug\UpdateNotifier.FrmMain.resources
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v9\UpdateNotifier\obj\x86\Debug\UpdateNotifier.Properties.Resources.resources
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v9\UpdateNotifier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v9\UpdateNotifier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v10\UpdateNotifier\bin\Debug\UpdateNotifier.exe.config
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v10\UpdateNotifier\obj\x86\Debug\UpdateNotifier.exe
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v10\UpdateNotifier\obj\x86\Debug\UpdateNotifier.pdb
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v10\UpdateNotifier\bin\Debug\UpdateNotifier.exe
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v10\UpdateNotifier\bin\Debug\UpdateNotifier.pdb
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v10\UpdateNotifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v10\UpdateNotifier\obj\x86\Debug\UpdateNotifier.FrmMain.resources
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v10\UpdateNotifier\obj\x86\Debug\UpdateNotifier.Properties.Resources.resources
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v10\UpdateNotifier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Developer\My Documents\My LAB\UpdateNotifier v10\UpdateNotifier\obj\x86\Debug\GenerateResource.write.1.tlog
